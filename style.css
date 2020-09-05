@@ -1,13 +1,13 @@
 body {
   background-color: hsla(19, 100%, 49%, 1);
-  text-align: centre;
+  text-align: center;
   color: white;
 }
 a {
   text-decoration: none;
   color: grey;
 }
-h1,
+/*h1,
 h2,
 h3,
 h4,
@@ -15,7 +15,5 @@ h5,
 h6,
 div,
 p {
-  text-align: centre;
-  margin-left: 3em;
-  
- }
+  text-align: center;
+ }*/
