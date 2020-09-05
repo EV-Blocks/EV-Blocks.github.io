@@ -1,0 +1,9 @@
+body {
+  background-color: hsla(19, 100%, 49%, 1);
+  text-align: centre;
+  color: white;
+}
+a {
+  text-decoration: none;
+  color: grey;
+}
