@@ -5,9 +5,9 @@ body {
 }
 a {
   text-decoration: none;
-  color: grey;
+  color: gray;
 }
-/*h1,
+h1,
 h2,
 h3,
 h4,
@@ -16,4 +16,4 @@ h6,
 div,
 p {
   text-align: center;
- }*/
+ }
